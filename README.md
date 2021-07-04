@@ -9,7 +9,7 @@ ref:https://github.com/panwarabhishek345/flutter-simple-calculator
 
 </br>
 <h3>iPad Pro III</h3>
-<img src="./demo/demo1_iOS" width="250">
+<img src="./demo/demo1_iOS.jpg" width="250">
 
 <img src="./demo/demo2_iOS.jpg" width="250">
 
